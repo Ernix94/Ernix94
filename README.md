@@ -1,5 +1,5 @@
 ## Hi 👋, 
-I'm Ernest Horgas, I'm a curently learning Front-End Web Development 👨‍💻 I am passionate about programming.
+I'm Ernő Horgász, I'm a curently learning Front-End Web Development 👨‍💻 I am passionate about programming.
 🏄‍♂️. 
 
 - 🔭 I’m currently working on Front-End projects with HTML and CSS
